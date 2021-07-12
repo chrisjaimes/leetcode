@@ -4,8 +4,8 @@ Leetcode solutions in Java
 
 ## Easy
 
-| # |  Title |  Language   | Time | Space | Solution(s) |
-| ---| ------|-------------|------|-------|----------|
+| # |  Title |  Language     |  Time  |  Space  | Solution(s) |
+|---|--------|:-------------:|:------:|:-------:|-------------|
 | [704](https://leetcode.com/problems/binary-search/) |  Binary Search  | Java | O(log n) | O(1) | [Solution 1](problems/java/BinarySearch.java)
 | [53](https://leetcode.com/problems/maximum-subarray/) |  Maximum Subarray  | Java | O(n) | O(1) | [Solution 1](problems/java/MaximumSubarray.java)
 | [389](https://leetcode.com/problems/find-the-difference/) |  Find the Difference  | Java<br>Java</br>Java | O(n)<br>O(n)<br>O(n log n)     | O(1)<br>O(n)<br>O(n) | [Solution 1](problems/java/FindTheDifference.java)</br>[Solution 2](problems/java/FindTheDifferenceTwo.java)</br>[Solution 3](problems/java/FindTheDifferenceThree.java)
@@ -22,7 +22,7 @@ Leetcode solutions in Java
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  Remove Duplicates From Sorted Array | Java</br>Java | O(n)</br>O(n) | O(n)</br>O(n) | [Solution 1](problems/java/RemoveDuplicatesFromSortedArrayOne.java)</br>[Solution 2](problems/java/RemoveDuplicatesFromSortedArrayTwo.java)
 | [206](https://leetcode.com/problems/reverse-linked-list/) |  Reverse Linked List | Java</br>Java | O(n)</br>O(n) | O(1)</br>O(n) | [Solution 1](problems/java/ReverseLinkedListOne.java)</br>[Solution 2](problems/java/ReverseLinkedListTwo.java)
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) |  Merge Two Sorted Linked Lists | Java</br>Java | O(n)</br>O(n) | O(1)</br>O(n) | [Solution 1](problems/java/MergeTwoSortedLinkedListsOne.java)</br>[Solution 2](problems/java/MergeTwoSortedLinkedListsTwo.java)
-| [136](https://leetcode.com/problems/single-number/) |  Single Number | Java</br>Java | O(n)</br>O(n) | O(1)</br>O(n) | [Solution 1](problems/java/SingleNumberOne.java)</br>[Solution 2](problems/java/SingleNumberTwo.java)
+| [136](https://leetcode.com/problems/single-number/) | Single Number | Java</br>Java | O(n)</br>O(n) | O(1)</br>O(n) | [Solution 1](problems/java/SingleNumberOne.java)</br>[Solution 2](problems/java/SingleNumberTwo.java)
 | [482](https://leetcode.com/problems/license-key-formatting/) | License Key Formatting | Java | O(n) | O(n) | [Solution 1](problems/java/LicenseKeyFormatting.java)
 | [1](https://leetcode.com/problems/two-sum/) | Two Sum | Java | O(n) | O(n) | [Solution 1](problems/java/TwoSum.java)
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Java | O(2^n) | O(n) | [Solution 1](problems/java/ClimbingStairsOne.java)
@@ -37,8 +37,8 @@ Leetcode solutions in Java
 
 ## Medium
 
-| # |  Title |  Language   | Time | Space | Solution |
-| --|--------|-------------|------|-------|----------|
+| # |  Title |  Language     |  Time  |  Space  | Solution(s) |
+|---|--------|:-------------:|:------:|:-------:|-------------|
 |  [254](https://leetcode.com/problems/meeting-rooms-ii/)  |  Meeting Rooms II  | Java | O(n log n) | O(n) | [Solution 1](problems/java/MeetingRoomsII.java)
 |  [134](https://leetcode.com/problems/gas-station/)  |  Gas Station  | Java | O(n) | O(1) | [Solution 1](problems/java/GasStation.java)
 |  [1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)  |  Capacity To Ship Packages Within D Days  | Java | O(n log n) | O(n) | [Solution 1](problems/java/CapacityToShipPackagesWithinDDays.java)
@@ -75,7 +75,7 @@ Leetcode solutions in Java
 |  [31](https://leetcode.com/problems/next-permutation/)  |  Next Permutation  | Java | O(n) | O(1)| [Solution 1](problems/java/NextPermutation.java)
 
 ## Hard
-| # |  Title |  Language   | Time | Space | Solution |
-| --|--------|-------------|------|-------|----------|
+| # |  Title |  Language     |  Time  |  Space  | Solution(s) |
+|---|--------|:-------------:|:------:|:-------:|-------------|
 |  [23](https://leetcode.com/problems/merge-k-sorted-lists/)  |  Merge K Sorted Lists  | Java | O(n log n) | O(n)| [Solution 1](problems/java/MergeKSortedListsOne.java)
 |  [72](https://leetcode.com/problems/edit-distance/)  |  Edit Distance  | Java</br>Java | O(n * m)</br>- | O(n * m)</br>-| [Solution 1](problems/java/EditDistanceOne.java)</br>[Solution 2](problems/java/EditDistanceTwo.java)
