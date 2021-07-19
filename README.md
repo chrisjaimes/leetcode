@@ -72,6 +72,7 @@ Leetcode solutions in Java
 |  [22](https://leetcode.com/problems/generate-parentheses/)  |  Generate Parentheses  | Java</br>Java | O(n^(2n) n)</br> - | O(n^(2n) n)</br> -| [Solution 1](problems/java/GenerateParenthesesOne.java)</br>[Solution 2](problems/java/GenerateParenthesesTwo.java)
 |  [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  |  Find First and Last Position of Element in Sorted Array  | Java</br>Java | O(log n)</br>O(log n) | O(1)</br>O(1) | [Solution 1](problems/java/FindFirstAndLastPositionOfElementInSortedArrayOne.java)</br>[Solution 2](problems/java/FindFirstAndLastPositionOfElementInSortedArrayTwo.java)
 |  [256](https://leetcode.com/problems/paint-house/)  |  Paint House  | Java</br>Java | O(n)</br>O(n) | O(1)</br>O(n) | [Solution 1](problems/java/PaintHouseOne.java)</br>[Solution 2](problems/java/PaintHouseTwo.java)
+|  [849](https://leetcode.com/problems/maximize-distance-to-closest-person/)  |  Maximize Distance to Closest Person  | Java</br>Java | O(n)</br>O(n) | O(1)</br>O(1) | [Solution 1](problems/java/MaximizeDistanceToClosestPersonOne.java)</br>[Solution 2](problems/java/MaximizeDistanceToClosestPersonTwo.java)
 |  [833](https://leetcode.com/problems/find-and-replace-in-string/)  |  Find and Replace in String  | Java | O(n) | O(n)| [Solution 1](problems/java/FindAndReplaceInString.java)
 |  [15](https://leetcode.com/problems/3sum/)  |  3Sum  | Java | O(n^2) | O(n)| [Solution 1](problems/java/3Sum.java)
 |  [277](https://leetcode.com/problems/find-the-celebrity/)  |  Find the Celebrity  | Java | O(n) | O(n)| [Solution 1](problems/java/FindTheCelebrity.java)
@@ -83,3 +84,4 @@ Leetcode solutions in Java
 |---|--------|:-------------:|:------:|:-------:|-------------|
 |  [23](https://leetcode.com/problems/merge-k-sorted-lists/)  |  Merge K Sorted Lists  | Java | O(n log n) | O(n)| [Solution 1](problems/java/MergeKSortedListsOne.java)
 |  [72](https://leetcode.com/problems/edit-distance/)  |  Edit Distance  | Java</br>Java | O(n * m)</br>- | O(n * m)</br>-| [Solution 1](problems/java/EditDistanceOne.java)</br>[Solution 2](problems/java/EditDistanceTwo.java)
+|  [1153](https://leetcode.com/problems/string-transforms-into-another-string/)  |  String Transforms Into Another String  | Java | O(n) | O(n) | [Solution 1](problems/java/StringTransformsIntoAnotherString.java)
