@@ -66,7 +66,7 @@ Leetcode solutions in Java
 |  [200](https://leetcode.com/problems/number-of-islands/)  |  Number of Islands  | Java | O(r * c) | O(r * c)| [Solution 1](problems/java/NumberOfIslands.java)
 |  [11](https://leetcode.com/problems/container-with-most-water/)  |  Container With Most Water  | Java | O(n) | O(1)| [Solution 1](problems/java/ContainerWithMostWater.java)
 |  [323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/submissions/)  |  Number of Connected Components in an Undirected Graph  | Java | O(n) | O(n) | [Solution 1](problems/java/NumberOfConnectedComponentsInAnUndirectedGraph.java)
-|  [904](https://leetcode.com/problems/fruit-into-baskets/)  |  Fruit Into Baskets  | Java | O(n) | O(1)| [Solution 1](problems/java/FruitIntoBasketsOne.java)
+|  [904](https://leetcode.com/problems/fruit-into-baskets/)  |  Fruit Into Baskets  | Java | O(n)</br>O(n) | O(1)</br>O(n) | [Solution 1](problems/java/FruitIntoBasketsOne.java)</br>[Solution 2](problems/java/FruitIntoBasketsTwo.java)
 |  [285](https://leetcode.com/problems/max-area-of-island/)  |  Inorder Successor in BST  | Java</br>Java | O(n)</br>O(log n)* | O(n)</br>O(1)| [Solution 1](problems/java/InorderSuccessorInBSTOne.java)</br>[Solution 2](problems/java/InorderSuccessorInBSTTwo.java)
 |  [1525](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)  |  Number of Good Ways to Split a String  | Java</br>Java | O(n^2)</br>O(n^2) | O(n)</br>O(n)| [Solution 1](problems/java/NumberOfGoodWaysToSplitAStringOne.java)</br>[Solution 2](problems/java/NumberOfGoodWaysToSplitAStringTwo.java)
 |  [162](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)  | Find Peak Element | Java | O(log n) | O(1) | [Solution 1](problems/java/FindPeakElement.java)
@@ -78,7 +78,12 @@ Leetcode solutions in Java
 |  [15](https://leetcode.com/problems/3sum/)  |  3Sum  | Java | O(n^2) | O(n)| [Solution 1](problems/java/3Sum.java)
 |  [277](https://leetcode.com/problems/find-the-celebrity/)  |  Find the Celebrity  | Java | O(n) | O(n)| [Solution 1](problems/java/FindTheCelebrity.java)
 |  [31](https://leetcode.com/problems/next-permutation/)  |  Next Permutation  | Java | O(n) | O(1)| [Solution 1](problems/java/NextPermutation.java)
-|  [207](https://leetcode.com/problems/course-schedule/)  |  Course Schedule  | Java | O(n) | O(1)| [Solution 1](problems/java/CourseSchedule.java)
+|  [207](https://leetcode.com/problems/course-schedule/)  |  Course Schedule  | Java</br>Java | O(n)</br> | O(1)</br>| [Solution 1](problems/java/CourseScheduleOne.java)</br>[Solution 2](problems/java/CourseScheduleTwo.java)
+|  [1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)  | Count Good Nodes in Binary Tree | Java | O(n) | O(n)| [Solution 1](problems/java/CountGoodNodesInBinaryTree.java)
+|  [46](https://leetcode.com/problems/permutations/)  | Permutations | Java | - | - | [Solution 1](problems/java/Permutations.java)
+|  [47](https://leetcode.com/problems/permutations-ii/)  | Permutations | Java | - | - | [Solution 1](problems/java/PermutationsII.java)
+|  [47](https://leetcode.com/problems/combination-sum/)  | Combination Sum | Java | - | - | [Solution 1](problems/java/CombinationSum.java)
+|  [216](https://leetcode.com/problems/combination-sum-iii/)  | Combination Sum III | Java | - | - | [Solution 1](problems/java/CombinationSumIII.java)
 
 ## Hard
 | # |  Title |  Language     |  Time  |  Space  | Solution(s) |

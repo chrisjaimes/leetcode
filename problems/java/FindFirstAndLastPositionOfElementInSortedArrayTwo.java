@@ -11,8 +11,11 @@ class Solution {
     if (lo > hi || lo < 0) return -1;
     while (lo < hi) {
       int mid = lo + (hi - lo) / 2;
-      if (nums[mid] < target) lo = mid + 1;
-      else hi = mid;
+      if (nums[mid] < target) { 
+        lo = mid + 1;
+      } else { 
+        hi = mid;
+      }
     }
     return nums[lo] == target ? lo : -1;
   }
@@ -22,8 +25,11 @@ class Solution {
     if (lo == hi) return nums[lo] == target ? lo : -1;
     while (lo < hi) {
       int mid = lo + (hi - lo) / 2 + 1;
-      if (nums[mid] > target) hi = mid - 1;
-      else lo = mid;
+      if (nums[mid] > target) { 
+        hi = mid - 1;
+      } else { 
+        lo = mid;
+      }
     }
     return nums[lo] == target ? lo : -1;
   }

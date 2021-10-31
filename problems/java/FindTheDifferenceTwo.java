@@ -12,7 +12,7 @@ class Solution {
         }
         for (int i = 0; i < chars.length; i++) {
             if (chars[i] != 0) {
-                return (char)(i+'a');
+                return (char)(i + 'a');
             }
         }
         return (char)(tChars[tChars.length - 1] + 'a');

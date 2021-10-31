@@ -20,7 +20,7 @@ class Solution {
       }
     }
       
-      return count;
+    return count;
   }
   
   private void dfs(int node, HashMap<Integer, List<Integer>> map, boolean[] visited) {

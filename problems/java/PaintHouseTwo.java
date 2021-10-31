@@ -1,6 +1,6 @@
 class Solution {
   private int[][] costs;
-  Map<String, Integer> memo; 
+  HashMap<String, Integer> memo; 
   
   public int minCost(int[][] costs) {
     if (costs.length == 0 ) {
@@ -15,8 +15,8 @@ class Solution {
   private int paintHouse(int house, int color) {
     int total = costs[house][color];
     
-    if (memo.containsKey(house+""+color)) {
-      return memo.get(house+""+color);
+    if (memo.containsKey(house + "" + color)) {
+      return memo.get(house + "" + color);
     }
       
     if (house == costs.length - 1) {

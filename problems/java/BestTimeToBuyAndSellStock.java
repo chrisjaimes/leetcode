@@ -9,7 +9,7 @@ class Solution {
     
     for (int i = 0; i < prices.length; i++) {
       if (buyPrice > prices[i]) {
-          buyPrice = prices[i];
+        buyPrice = prices[i];
       } 
       profit = Math.max(prices[i] - buyPrice, profit);
     }

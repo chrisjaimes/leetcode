@@ -25,7 +25,7 @@ class Solution {
       }
         
       root = stack.pop();
-      if (prev != null && root.val <= prev) {
+      if (prev != null && prev >= root.val) {
         return false;
       }
       

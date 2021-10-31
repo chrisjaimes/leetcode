@@ -28,6 +28,7 @@ class Solution {
     }
 
     int mid = lo + (hi - lo) / 2;
+    // if [lo + (hi - lo)] is odd, set Right middle node as next root.
     if (lo + (hi - lo) % 2 == 1) {
       mid += 1;
     }

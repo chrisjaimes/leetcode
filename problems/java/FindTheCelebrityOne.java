@@ -6,7 +6,7 @@ public class Solution extends Relation {
     int celebrity = 0;
     
     for (int i = 0; i < n; i++) {
-      if (knows(celebrity, i)) {
+      if (celebrity != i && knows(celebrity, i)) {
         celebrity = i;
       }
     }
